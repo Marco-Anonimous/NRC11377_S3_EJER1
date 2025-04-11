@@ -21,4 +21,4 @@ Este es un proyecto simple de calculadora desarrollado como parte del curso de p
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/ProyectoUPN.git
+   https://github.com/Marco-Anonimous/NRC11377_S3_EJER1.git
