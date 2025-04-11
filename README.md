@@ -23,8 +23,4 @@ Este es un proyecto simple de calculadora desarrollado como parte del curso de p
    ```bash
    https://github.com/Marco-Anonimous/NRC11377_S3_EJER1.git
 
-
-
-//CLICK DERECHO CASO1 - new - others -buiilder -  jframe
-//ABSOLUE YOUT 
 //jscrollPane - jtextPane
