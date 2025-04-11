@@ -25,6 +25,6 @@ Este es un proyecto simple de calculadora desarrollado como parte del curso de p
 
 
 
-   //CLICK DERECHO CASO1 - new - others -buiilder -  jframe
-	//ABSOLUE YOUT 
-	//jscrollPane - jtextPane
+//CLICK DERECHO CASO1 - new - others -buiilder -  jframe
+//ABSOLUE YOUT 
+//jscrollPane - jtextPane
